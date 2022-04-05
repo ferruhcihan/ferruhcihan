@@ -14,6 +14,48 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
+<details close>
+<summary>My Skills</summary>
+
+#### Frontend:
+- React.js
+- Next.js
+- Redux
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Sass, Scss
+- Bootstrap
+- TailwindCSS
+
+#### Backend:
+- Node.js
+- Express
+- Python, Django, Django REST Framework
+- REST
+- GraphQL
+
+#### Mobile:
+- React Native
+
+#### Database:
+- SQLite
+- MongoDB
+
+#### Version control Systems - Source Control:
+- Git
+- GitHub
+- Gitlab
+
+#### Operating Systems:
+- Windows 8, 8.1, 10
+- Linux, Ubuntu, Android
+- iOS, macOS
+#### Teamwork:
+- Jira, Slack, Microsoft Teams, Skype
+</details>
+
 <!--
 **ferruhcihan/ferruhcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
