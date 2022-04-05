@@ -17,43 +17,19 @@
 <details close>
 <summary>My Skills</summary>
 
-#### Frontend:
-- React.js
-- Next.js
-- Redux
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Sass, Scss
-- Bootstrap
-- TailwindCSS
+| Frontend    | Backend | Mobile       | Database | VCS    | OS         | Teamwork        |
+|-------------|---------|--------------|----------|--------|------------|-----------------|
+| React.js    | Node.js | React Native | SQLite   | Git    | Windows 8  | Jira            |
+| Next.js     | Express |              | MongoDB  | GitHub | Windows 10 | Slack           |
+| Redux       | Python  |              |          | Gitlab | Linux      | Microsoft Teams |
+| HTML5       | Django  |              |          |        | Ubuntu     | Skype           |
+| CSS3        | DRF     |              |          |        | Android    |                 |
+| JavaScript  | REST    |              |          |        | iOS        |                 |
+| TypeScript  | GraphQL |              |          |        | macOS      |                 |
+| Sass, Scss  |         |              |          |        |            |                 |
+| Bootstrap   |         |              |          |        |            |                 |
+| TailwindCSS |         |              |          |        |            |                 |
 
-#### Backend:
-- Node.js
-- Express
-- Python, Django, Django REST Framework
-- REST
-- GraphQL
-
-#### Mobile:
-- React Native
-
-#### Database:
-- SQLite
-- MongoDB
-
-#### Version control Systems - Source Control:
-- Git
-- GitHub
-- Gitlab
-
-#### Operating Systems:
-- Windows 8, 8.1, 10
-- Linux, Ubuntu, Android
-- iOS, macOS
-#### Teamwork:
-- Jira, Slack, Microsoft Teams, Skype
 </details>
 
 <!--
