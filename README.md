@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ferruh
+### Hi, I'm Ferruh 👋🏻 👨🏻‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferruhcihan" alt="ferruhcihan" /> </p>
 
@@ -9,8 +9,7 @@
 [![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
 
 - 🔭 I’m currently working on full stack app development ( React | React Native | JavaScript | TypeScript | Node.js  )
-- 🌱 I’m currently learning web3 dapp development ( Web3.js )
-- 🌱 I’m currently learning native mobile app development ( Swift )
+- 🌱 I’m currently learning native mobile app and web3 dapp development ( Swift | Web3.js )
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
