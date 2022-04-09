@@ -14,7 +14,7 @@
 - 💬 Ask me about anything that you want to learn
 
 <details close>
-<summary>My Skills</summary>
+<summary>Skills:</summary>
 
 | Frontend    | Backend | Mobile       | Database | VCS    | OS         | Teamwork        |
 |-------------|---------|--------------|----------|--------|------------|-----------------|
@@ -29,6 +29,12 @@
 | Bootstrap   |         |              |          |        |            |                 |
 | TailwindCSS |         |              |          |        |            |                 |
 
+</details>
+
+<details close>
+<summary>Medium Articles:</summary>
+
+- [Google Play Services for Genymotion](https://ferruhcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
 </details>
 
 <!--
