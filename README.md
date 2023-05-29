@@ -20,7 +20,7 @@
 |-------------|---------|--------------|----------|--------|------------|-----------------|
 | React.js    | Node.js | React Native | SQLite   | Git    | Windows 8  | Jira            |
 | Next.js     | Express |              | MongoDB  | GitHub | Windows 10 | Slack           |
-| Redux       | Python  |              |          | Gitlab | Linux      | Confluence.     |
+| Redux       | Python  |              |          | GitLab | Linux      | Confluence      |
 | HTML5       | Django  |              |          |        | Ubuntu     | Microsoft Teams |
 | CSS3        | DRF     |              |          |        | Android    | ClickUp         |
 | JavaScript  | REST    |              |          |        | iOS        |                 |
