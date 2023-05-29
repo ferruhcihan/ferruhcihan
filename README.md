@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
 
 - 🔭 I’m currently working on full stack app development ( React | React Native | JavaScript | TypeScript | Node.js  )
-- 🌱 I’m currently learning native mobile app and web3 dapp development ( Swift | Web3.js )
+- 🌱 I’m currently learning DevOps and cloud technologies ( Kubernetes | Docker | Microsoft Azure | AWS )
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
@@ -20,9 +20,9 @@
 |-------------|---------|--------------|----------|--------|------------|-----------------|
 | React.js    | Node.js | React Native | SQLite   | Git    | Windows 8  | Jira            |
 | Next.js     | Express |              | MongoDB  | GitHub | Windows 10 | Slack           |
-| Redux       | Python  |              |          | Gitlab | Linux      | Microsoft Teams |
-| HTML5       | Django  |              |          |        | Ubuntu     | Skype           |
-| CSS3        | DRF     |              |          |        | Android    |                 |
+| Redux       | Python  |              |          | Gitlab | Linux      | Confluence.     |
+| HTML5       | Django  |              |          |        | Ubuntu     | Microsoft Teams |
+| CSS3        | DRF     |              |          |        | Android    | ClickUp         |
 | JavaScript  | REST    |              |          |        | iOS        |                 |
 | TypeScript  | GraphQL |              |          |        | macOS      |                 |
 | Sass, Scss  |         |              |          |        |            |                 |
